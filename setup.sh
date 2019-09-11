@@ -66,8 +66,8 @@ source ~/.bashrc
 chmod -R +x tools/
 
 #Clean up
-rm -r documentation_old/
-rm -r tools_old/
-rm -r update/
+rm -rf documentation_old/
+rm -rf tools_old/
+rm -rf update/
 
 exit
